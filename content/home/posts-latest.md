@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Freeze"
+subtitle = "Practice a whole group focusing routine you will use as a dramatic play warm-up!"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
