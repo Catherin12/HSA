@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "A series of arts-integration techniques designed to support receptive and expressive language in a developmentally appropriate (read: playful) way."
   image: ""
 ---
