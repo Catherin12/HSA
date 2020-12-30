@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: ✏️ Head Start Arts
+subtitle: 'A collaboration between Champlain Valley Head Start and the Vermont Arts Council'
 
 design:
   background:
