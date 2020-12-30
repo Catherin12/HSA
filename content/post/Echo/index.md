@@ -1,7 +1,7 @@
 ---
 title: 'Echo'
 subtitle: 'He says...We all say...!'
-summary: 'Embed personal expression experiences in whole group activities.'
+summary: 'Embed personal expression experiences in whole group activities, like read alouds.'
 Actors:
 - Susanna Olson
 - Teaching Artist
